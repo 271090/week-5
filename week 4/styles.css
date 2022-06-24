@@ -1,0 +1,71 @@
+header {
+    position: absolute;
+    height: 40px;
+    left: 0%;
+    right: 0%;
+    top: 0;
+    background: #D8BF95;
+    border-radius: 0;
+}
+
+#sale {
+    text-align: center;
+}
+
+nav {
+    position: absolute;
+    height: 88px;
+    left: 0%;
+    right: 0%;
+    top: 40px;
+    background: #F1F1F1;
+    border-radius: 0;
+}
+
+div:hover {
+    background-color: #F89B4D;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
+
+.class:visited {
+    color: #4b2f89;
+}
+
+.menu {
+    text-decoration: none;
+    color: #000000;
+    padding: 50px;
+    margin: 10px;
+}
+
+#logo {
+    left: 0%;
+    right: 75.23%;
+    top: 0%;
+    width: 60px;
+}
+
+#image1 {
+    width: 440px;
+}
+
+#image2 {
+    width: 440px;
+}
+
+#image3 {
+    width: 440px;
+}
+
+article {
+    font-family: 'Bona Nova', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    color: #000000;
+}
